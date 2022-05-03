@@ -1,2 +1,2 @@
 # Adicionar-e-Imprimir
-Exercício de adicionar telefones em javascript
+Exercício de adicionar e imprimir telefones em javascript
